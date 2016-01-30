@@ -1,0 +1,14 @@
+nav {
+    margin-bottom: 20px;
+}
+
+article {
+    background-color: yellow;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+h3 {
+    color: blue;
+}
