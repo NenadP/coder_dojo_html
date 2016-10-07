@@ -1,0 +1,18 @@
+
+.cat article {
+    background-color: Linen;
+}
+
+
+.cat h3 {
+    color: Firebrick;
+}
+
+.dog article {
+    background-color: Azure;
+}
+
+
+.dog h3 {
+    color: Blue;
+}

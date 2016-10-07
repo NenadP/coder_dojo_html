@@ -6,7 +6,8 @@ each of them containing final state achieved in the course
 
 In pdf folder, there are each week pdf presentation documents 
 
-The course was held in January - February 2016, organised by [Coder Dojo Greystones](http://coderdojogreystones.com/),
+There are 2 sets of course files, for 2015 and 2016 
+Both courses wereorganised by [Coder Dojo Greystones](http://coderdojogreystones.com/),
 part od the [Coder Dojo](https://coderdojo.com/)
 
 Course was led by [Nenad Pantic](http://www.nenadpantic.com/) as a lead mentor, 
