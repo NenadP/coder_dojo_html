@@ -1,4 +1,22 @@
 
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+}
+
+article {
+  padding: 20px;
+  border: 1px dotted black;
+  border-radius: 20px;
+}
+
 .cat article {
     background-color: Linen;
 }
