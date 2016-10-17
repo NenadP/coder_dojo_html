@@ -1,0 +1,49 @@
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+}
+
+article {
+  padding: 20px;
+  border: 1px dotted black;
+  border-radius: 20px;
+}
+
+.cat article {
+    background-color: Linen;
+}
+
+
+.cat h3 {
+    color: Firebrick;
+}
+
+.dog article {
+    background-color: Azure;
+}
+
+.dog h3 {
+    color: Blue;
+}
+
+img:hover {
+    transition: all 0.5s ease;
+}
+
+.cat img:hover {
+    transform: rotateZ(-30deg);
+}
+
+.dog img:hover {
+    transform: scale(1.2);
+}
+
+
